@@ -1,0 +1,9 @@
+Avevo già fatto l'esercizio quindi sto mostrando direttamente i risultati
+
+Nella prima immagine sono presenti gli utenti app_develper, app_reader e app_writer
+
+Nella seconda immagine è presente il database newdb
+
+Nella terza immagine i permessi degli utenti all'interno del database
+
+Dovrebbe essere tutto
